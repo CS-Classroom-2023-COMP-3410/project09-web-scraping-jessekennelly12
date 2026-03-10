@@ -1,0 +1,214 @@
+{
+    "events": [
+        {
+            "duTeam": "Denver",
+            "opponent": "UNLV",
+            "date": "Oct 4 (Sat) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Air Force",
+            "date": "Oct 10 (Fri) 7 p.m. MT Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Bentley",
+            "date": "Oct 11 (Sat) 7 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Lindenwood",
+            "date": "Oct 17 (Fri) 6 p.m. MT FloHockey.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Lindenwood",
+            "date": "Oct 18 (Sat) 6 p.m. MT FloHockey.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#9 Boston College",
+            "date": "Oct 24 (Fri) 5 p.m. MT ESPN+ Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Northeastern",
+            "date": "Oct 25 (Sat) 5 p.m. MT ESPN+ / TSN+ Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Alaska Anchorage",
+            "date": "Oct 31 (Fri) 7 p.m. MT Altitude 2 / NCHC.tv / TSN+ Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Alaska Anchorage",
+            "date": "Nov 1 (Sat) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#4 Western Michigan",
+            "date": "Nov 7 (Fri) 5 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#4 Western Michigan",
+            "date": "Nov 8 (Sat) 4 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#17 Colorado College",
+            "date": "Nov 14 (Fri) 7 p.m. MT Altitude / NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#17 Colorado College",
+            "date": "Nov 15 (Sat) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Arizona State",
+            "date": "Nov 21 (Fri) 7 p.m. MT Altitude / NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Arizona State",
+            "date": "Nov 22 (Sat) 5 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Minnesota",
+            "date": "Nov 29 (Sat) 7 p.m. MT Altitude 2 / NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#19 Miami",
+            "date": "Dec 5 (Fri) 7 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#19 Miami",
+            "date": "Dec 6 (Sat) 7 p.m. MT Altitude / NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "St. Cloud State",
+            "date": "Dec 12 (Fri) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "St. Cloud State",
+            "date": "Dec 13 (Sat) 5 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#15/18 Maine",
+            "date": "Jan 2 (Fri) 7 p.m. MT Altitude 2 / NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#15/18 Maine",
+            "date": "Jan 3 (Sat) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#7 Western Michigan",
+            "date": "Jan 9 (Fri) 7 p.m. MT Altitude 2 / NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#7 Western Michigan",
+            "date": "Jan 10 (Sat) 6 p.m. MT Altitude 2 / NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#5 North Dakota",
+            "date": "Jan 16 (Fri) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#5 North Dakota",
+            "date": "Jan 17 (Sat) 5 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "St. Cloud State",
+            "date": "Jan 23 (Fri) 7 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "St. Cloud State",
+            "date": "Jan 24 (Sat) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#7/8 Minnesota Duluth",
+            "date": "Jan 30 (Fri) 7 p.m. MT Altitude 2 / NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "#7/8 Minnesota Duluth",
+            "date": "Jan 31 (Sat) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Colorado College",
+            "date": "Feb 6 (Fri) 7 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Colorado College",
+            "date": "Feb 7 (Sat) 7 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Omaha",
+            "date": "Feb 13 (Fri) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Omaha",
+            "date": "Feb 14 (Sat) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Arizona State",
+            "date": "Feb 27 (Fri) 7 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Arizona State",
+            "date": "Feb 28 (Sat) 6 p.m. MT Altitude 2 / NCHC.tv / TSN+ Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Miami",
+            "date": "Mar 6 (Fri) 7 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Miami",
+            "date": "Mar 7 (Sat) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "Western Michigan",
+            "date": "Mar 14 (Sat) 6 p.m. MT NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "NCHC Final",
+            "date": "Mar 21 (Sat) TBA NCHC.tv Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "NCAA Regionals",
+            "date": "Mar 27 (Fri) Mar 29 (Sun) TBA"
+        },
+        {
+            "duTeam": "Denver",
+            "opponent": "NCAA Frozen Four",
+            "date": "Apr 9 (Thu) Apr 11 (Sat) TBA"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "courses": [
+        {
+            "course": "COMP-3000",
+            "title": "COMP 3000 Seminar: The Real World (1 Credit)"
+        },
+        {
+            "course": "COMP-3009",
+            "title": "COMP 3009 Essential Math for Data Science and AI (4 Credits)"
+        },
+        {
+            "course": "COMP-3100",
+            "title": "COMP 3100 Human-Computer Interaction (4 Credits)"
+        },
+        {
+            "course": "COMP-3200",
+            "title": "COMP 3200 Discrete Structures (4 Credits)"
+        },
+        {
+            "course": "COMP-3334",
+            "title": "COMP 3334 Parallel and Distributed Computing for Data Science and AI (4 Credits)"
+        },
+        {
+            "course": "COMP-3351",
+            "title": "COMP 3351 Programming Languages (4 Credits)"
+        },
+        {
+            "course": "COMP-3352",
+            "title": "COMP 3352 Elements of Compiler Design (4 Credits)"
+        },
+        {
+            "course": "COMP-3353",
+            "title": "COMP 3353 Compiler Construction (4 Credits)"
+        },
+        {
+            "course": "COMP-3361",
+            "title": "COMP 3361 Operating Systems I (4 Credits)"
+        },
+        {
+            "course": "COMP-3371",
+            "title": "COMP 3371 Data Structures & Algorithms (4 Credits)"
+        },
+        {
+            "course": "COMP-3372",
+            "title": "COMP 3372 Advanced Algorithms (4 Credits)"
+        },
+        {
+            "course": "COMP-3381",
+            "title": "COMP 3381 Software Engineering I (4 Credits)"
+        },
+        {
+            "course": "COMP-3382",
+            "title": "COMP 3382 Software Engineering II (4 Credits)"
+        },
+        {
+            "course": "COMP-3384",
+            "title": "COMP 3384 Secure Software Engineering (4 Credits)"
+        },
+        {
+            "course": "COMP-3410",
+            "title": "COMP 3410 Web Programming I (4 Credits)"
+        },
+        {
+            "course": "COMP-3411",
+            "title": "COMP 3411 Web Programming II (4 Credits)"
+        },
+        {
+            "course": "COMP-3412",
+            "title": "COMP 3412 Web Projects: Web Development III (4 Credits)"
+        },
+        {
+            "course": "COMP-3421",
+            "title": "COMP 3421 Database Organization & Management I (4 Credits)"
+        },
+        {
+            "course": "COMP-3424",
+            "title": "COMP 3424 NoSQL Databases (4 Credits)"
+        },
+        {
+            "course": "COMP-3431",
+            "title": "COMP 3431 Data Mining (4 Credits)"
+        },
+        {
+            "course": "COMP-3432",
+            "title": "COMP 3432 Machine Learning (4 Credits)"
+        },
+        {
+            "course": "COMP-3433",
+            "title": "COMP 3433 Data Visualization (4 Credits)"
+        },
+        {
+            "course": "COMP-3441",
+            "title": "COMP 3441 Introduction to Probability and Statistics for Data Science & AI (4 Credits)"
+        },
+        {
+            "course": "COMP-3442",
+            "title": "COMP 3442 Advanced Probability and Statistics for Data Science (4 Credits)"
+        },
+        {
+            "course": "COMP-3450",
+            "title": "COMP 3450 Machine Learning Operations (4 Credits)"
+        },
+        {
+            "course": "COMP-3455",
+            "title": "COMP 3455 Shell Scripting and System Tools (4 Credits)"
+        },
+        {
+            "course": "COMP-3456",
+            "title": "COMP 3456 Deep Learning for Sequence Data (4 Credits)"
+        },
+        {
+            "course": "COMP-3490",
+            "title": "COMP 3490 Undestanding AI (4 Credits)"
+        },
+        {
+            "course": "COMP-3491",
+            "title": "COMP 3491 Applications of Generative AI (4 Credits)"
+        },
+        {
+            "course": "COMP-3495",
+            "title": "COMP 3495 AI Design Project (4 Credits)"
+        },
+        {
+            "course": "COMP-3501",
+            "title": "COMP 3501 Introduction to Artificial Intelligence (4 Credits)"
+        },
+        {
+            "course": "COMP-3525",
+            "title": "Mind Reading Machines (4 Credits)"
+        },
+        {
+            "course": "COMP-3531",
+            "title": "COMP 3531 Deep Learning: Model Design and Application (4 Credits)"
+        },
+        {
+            "course": "COMP-3581",
+            "title": "COMP 3581 Algorithms for Data Science & AI (4 Credits)"
+        },
+        {
+            "course": "COMP-3591",
+            "title": "COMP 3591 Computational Geometry (4 Credits)"
+        },
+        {
+            "course": "COMP-3621",
+            "title": "COMP 3621 Computer Networking (4 Credits)"
+        },
+        {
+            "course": "COMP-3681",
+            "title": "COMP 3681 Networking for Games (4 Credits)"
+        },
+        {
+            "course": "COMP-3701",
+            "title": "COMP 3701 Topics in Computer Graphics (4 Credits)"
+        },
+        {
+            "course": "COMP-3702",
+            "title": "COMP 3702 Topics in Database (4 Credits)"
+        },
+        {
+            "course": "COMP-3703",
+            "title": "COMP 3703 Topics-Artificial Intelligence (4 Credits)"
+        },
+        {
+            "course": "COMP-3704",
+            "title": "COMP 3704 Advanced Topics: Systems (4 Credits)"
+        },
+        {
+            "course": "COMP-3705",
+            "title": "COMP 3705 Topics in Computer Science (1-4 Credits)"
+        },
+        {
+            "course": "COMP-3711",
+            "title": "COMP 3711 Special Topics in Data Science & AI (4 Credits)"
+        },
+        {
+            "course": "COMP-3721",
+            "title": "COMP 3721 Computer Security (4 Credits)"
+        },
+        {
+            "course": "COMP-3722",
+            "title": "COMP 3722 Network Security (4 Credits)"
+        },
+        {
+            "course": "COMP-3723",
+            "title": "COMP 3723 Ethical Hacking (4 Credits)"
+        },
+        {
+            "course": "COMP-3731",
+            "title": "COMP 3731 Computer Forensics (4 Credits)"
+        },
+        {
+            "course": "COMP-3801",
+            "title": "COMP 3801 Introduction Computer Graphics (4 Credits)"
+        },
+        {
+            "course": "COMP-3820",
+            "title": "COMP 3820 Introduction to Game Programming (4 Credits)"
+        },
+        {
+            "course": "COMP-3821",
+            "title": "COMP 3821 Game Programming I (4 Credits)"
+        },
+        {
+            "course": "COMP-3822",
+            "title": "COMP 3822 Game Programming II (4 Credits)"
+        },
+        {
+            "course": "COMP-3831",
+            "title": "COMP 3831 Game Prototyping (4 Credits)"
+        },
+        {
+            "course": "COMP-3832",
+            "title": "COMP 3832 Game Capstone I (4 Credits)"
+        },
+        {
+            "course": "COMP-3833",
+            "title": "COMP 3833 Game Capstone II (4 Credits)"
+        },
+        {
+            "course": "COMP-3904",
+            "title": "COMP 3904 Internship/Co-Op in Computing (0-10 Credits)"
+        },
+        {
+            "course": "COMP-3991",
+            "title": "COMP 3991 Independent Study (1-10 Credits)"
+        },
+        {
+            "course": "COMP-3995",
+            "title": "COMP 3995 Independent Research (1-10 Credits)"
+        }
+    ]
+}
